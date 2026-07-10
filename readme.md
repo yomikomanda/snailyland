@@ -3,13 +3,13 @@
 
 ------------
 
-### snailyland - Yomiko's Unity Project!
+### <img width="25" height="25" alt="yugiri snail" src="https://cdn.discordapp.com/emojis/1412503541356040252.webp?size=48&name=YugiriSnail&lossless=true" /> snailyland - Yomiko's Unity Project!
 In other words, it's a game made by a learning solo dev YomikoManda, powered by **Unity 6.3** available for **Windows 10 and 11** with version *dev 3* being available for Android only.
 
-### What this game features
+### <img width="25" height="25" alt="yugiri question" src="https://cdn.discordapp.com/emojis/1329380459989434381.webp?size=48&name=YugiriConfuse&lossless=true" /> What this game features
 This game is constantly being updated to add new features, at the time of writing this, *dev 8* is the latest version, which features two scenes, a scene full of cubes and a giant terrain with *yugiripeeks* all around. that you can walk and jump on
 
-### The goal for this game
+### <img width="25" height="25" alt="yugiri stab" src="https://cdn.discordapp.com/emojis/1351890266889519175.webp?size=48&name=YugiriStab&lossless=true" /> The goal for this game
 *snailyland* specifically is targeted to be a 3D platformer with different mechanics as a final product. I have a hero shooter in mind, but that will be a whole another project years from now on, and I still don't know if I'll ever start it at all.
 
 ### ⚠️ Disclaimer

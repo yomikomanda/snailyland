@@ -43,20 +43,27 @@ The game features 3 different graphics APIs. To easily switch between them, this
 
 ## 📜 The rules
 This game sadly has **no rules yet** :(
+
 It is still an **early development project**, but it's destined to be a **level-based 3D platformer with different mechanics**!
+
 First signs of the game will start appearing appearing in **PreAlpha version** builds!
 
 ## ⚠️ Disclaimers
 *snailyland* is made solely for **education purposes and hobby development.**
+
 It is **NOT a commercial or official game**, it is made only for the purpose of **learning the Unity engine**.
 
 ### ©️Copyright notices
 The character *Yugiri*, the peeking face, and in-game background music belong entirely to **iDreamSky Technology Holdings Ltd**. I am NOT affiliated with, authorized, or endorsed by this company in any way.
 Their assets are used as **placeholders** for early develolpment and will be **completely removed and replaced** in the future
+
 This project is **NOT meant for commercial purposes** until the **first official full build is released**.
+
 
 ### ✒️Please note that *snailyland* is a *codename*, not the final name of the game.
 
+
 ### 🔒This project is closed source and does not feature a source code on this repository
+
 
 **© 2026 YomikoManda. All rights reserved.**

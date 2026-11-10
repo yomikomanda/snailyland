@@ -12,6 +12,7 @@ Current phase: **Building the Core Framework**
 ## <img width="35" height="35" alt="yugiri stab" src="https://cdn.discordapp.com/emojis/1351890266889519175.webp?size=48&name=YugiriStab&lossless=true" /> Features
 ### Walking, Jumping, Sprinting
 <img width="1919" height="1079" alt="samplescene" src="https://github.com/user-attachments/assets/2f6d105a-60e8-48e2-ac57-4aa9ae055288" />
+
 There will be more, this is just the basics added during development :)
 
 ------------
@@ -19,6 +20,7 @@ There will be more, this is just the basics added during development :)
 
 ### A secondary scene
 <img width="1919" height="1079" alt="second scene" src="https://github.com/user-attachments/assets/de60bbd2-a0bb-40c1-8fee-30d747d9fcf2" />
+
 A scene used to test if DontDestroyOnLoad works. It remained in the game as an icon sincce dev 2 :)
 
 ------------
@@ -26,6 +28,7 @@ A scene used to test if DontDestroyOnLoad works. It remained in the game as an i
 
 ### A settings menu
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1cce80af-ccb2-4a8c-9048-d9c462fc8a05" />
+
 For now it's completely empty, but in the upcoming version **dev X**, it will contain some :)
 
 ------------

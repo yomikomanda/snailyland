@@ -6,7 +6,9 @@ This project is a game made by a 16 year old learning solo developer, who has an
 
 ### <img width="25" height="25" alt="yugiri question" src="https://cdn.discordapp.com/emojis/1329380459989434381.webp?size=48&name=YugiriConfuse&lossless=true" /> Technical details
 The game is powered by the **Unity 6.3 LTS engine**
+
 Available for **Windows 10 and 11**, older versions of Windows will **not work**
+
 Current phase: **Building the Core Framework**
 
 ## <img width="35" height="35" alt="yugiri stab" src="https://cdn.discordapp.com/emojis/1351890266889519175.webp?size=48&name=YugiriStab&lossless=true" /> Features

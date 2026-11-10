@@ -23,7 +23,7 @@ There will be more, this is just the basics added during development :)
 ### A secondary scene
 <img width="1919" height="1079" alt="second scene" src="https://github.com/user-attachments/assets/de60bbd2-a0bb-40c1-8fee-30d747d9fcf2" />
 
-A scene used to test if DontDestroyOnLoad works. It remained in the game as an icon sincce dev 2 :)
+A scene used to test if DontDestroyOnLoad works. It remained in the game as an icon since dev 2 :)
 
 ------------
 
